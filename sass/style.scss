@@ -13,7 +13,7 @@ $dark-theme-nav-hover:#ddd;
 h1{
     font-family: 'Roboto', sans-serif;
     position: relative;
-    margin-top:2
+    margin-top:2;
 }
 html, body{
     @include default-type();
